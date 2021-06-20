@@ -223,4 +223,5 @@ Capstone_DeepLearning.ipynb: Applying Deep learning
 13.GitHub Links
 
 Capstone project: https://github.com/bharathreddymuddarla/FinaleCapstone
+
 Test data:https://github.com/bharathreddymuddarla/FinaleCapstone/tree/main/data

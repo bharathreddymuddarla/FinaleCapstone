@@ -214,8 +214,11 @@ Feature importance on the features A,B,C,D,E,F,G (the coverage option features) 
 12.Code
 
 CapstoneStone.ipynb: Code for Data wrangling, applying models, tuning and evaluation.
+
 FeatureImportance.ipynb: Code for feature importance extraction.
+
 Capstone_DeepLearning.ipynb: Applying Deep learning
+
 
 13.GitHub Links
 

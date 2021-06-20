@@ -210,3 +210,16 @@ As we had imbalance data (very less percent of successful records) in the train/
 
 Feature importance on the features A,B,C,D,E,F,G (the coverage option features) changes on changing them to categorical values.
 
+
+12.Code
+
+CapstoneStone.ipynb: Code for Data wrangling, applying models, tuning and evaluation.
+FeatureImportance.ipynb: Code for feature importance extraction.
+
+13.GitHub Links
+
+Capstone project: https://github.com/bharathreddymuddarla/FinaleCapstone
+Test data:https://github.com/bharathreddymuddarla/FinaleCapstone/tree/main/data
+
+
+
